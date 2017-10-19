@@ -1,2 +1,0 @@
-D:\SICZ\pkcs\pkcs\knihovna\PKCS knihovna\info\obj\Debug\info.csprojResolveAssemblyReference.cache
-D:\SICZ\pkcs\pkcs\knihovna\PKCS knihovna\info\obj\Debug\info.csproj.CoreCompileInputs.cache

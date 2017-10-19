@@ -1,0 +1,2 @@
+D:\RutokenPkcs11Interop.Samples\src\RutokenPkcs11Interop.Samples.Common\obj\Debug\RutokenPkcs11Interop.Samples.Common.csprojResolveAssemblyReference.cache
+D:\RutokenPkcs11Interop.Samples\src\RutokenPkcs11Interop.Samples.Common\obj\Debug\RutokenPkcs11Interop.Samples.Common.csproj.CoreCompileInputs.cache
