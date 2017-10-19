@@ -176,6 +176,3 @@ namespace PKCS_knihovna
             }
         }
     }
-
-}
-}

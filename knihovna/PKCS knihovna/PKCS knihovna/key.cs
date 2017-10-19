@@ -1,6 +1,8 @@
-﻿using System;
+﻿using Net.Pkcs11Interop.HighLevelAPI;
+using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.Remoting;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -38,7 +40,7 @@ namespace PKCS_knihovna
             internal set;
         }
 
-        internal Pkcs11KeyInfo(ObjectHandle objectHandle, List<ObjectAttribute> objectAttributes, ulong? storageSize)
+        internal Pkcs11KeyInfo(System.Runtime.Remoting.ObjectHandle objectHandle, List<ObjectAttribute> objectAttributes, ulong? storageSize)
         {
             ObjectHandle = objectHandle;
             ObjectAttributes = objectAttributes;

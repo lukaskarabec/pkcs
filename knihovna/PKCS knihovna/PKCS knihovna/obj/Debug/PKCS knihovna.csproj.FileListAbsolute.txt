@@ -1,0 +1,2 @@
+D:\SICZ\pkcs\pkcs\knihovna\PKCS knihovna\PKCS knihovna\obj\Debug\PKCS knihovna.csprojResolveAssemblyReference.cache
+D:\SICZ\pkcs\pkcs\knihovna\PKCS knihovna\PKCS knihovna\obj\Debug\PKCS knihovna.csproj.CoreCompileInputs.cache
